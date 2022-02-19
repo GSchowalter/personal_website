@@ -1,11 +1,12 @@
 import { Container } from "reactstrap";
-import TestComponent from "./TestComponent";
+import StripeComponent from "./StripeComponent";
+import CounterButton from "./Counter/CounterButtonComponent";
 
 function Main() {
   return (
     <>
       <Container>
-        <TestComponent test={"Hello World"}></TestComponent>
+        <CounterButton></CounterButton>
       </Container>
     </>
   );

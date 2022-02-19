@@ -1,0 +1,1 @@
+- A chess game always running where anyone who visits the site can make a move for the side who's turn it is. The game would have to update live.
