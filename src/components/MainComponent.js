@@ -5,7 +5,7 @@ function Main() {
   return (
     <>
       <Container>
-        <TestComponent test={"Eclipse not clutch"}></TestComponent>
+        <TestComponent test={"Hello World"}></TestComponent>
       </Container>
     </>
   );
